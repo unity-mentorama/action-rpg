@@ -7,8 +7,7 @@ Sprites e outros assets são todos baseados em Assets Free da Unity Asset Store.
 ## Links para os assets na Asset Store
 [Ultimate Low Poly Dungeon](https://assetstore.unity.com/packages/3d/environments/dungeons/ultimate-low-poly-dungeon-143535)
 
-[Dog Knight PBR Polyart]
-(https://assetstore.unity.com/packages/3d/characters/animals/dog-knight-pbr-polyart-135227)
+[Dog Knight PBR Polyart](https://assetstore.unity.com/packages/3d/characters/animals/dog-knight-pbr-polyart-135227)
 
 [RPG Tiny Hero Duo PBR Polyart](https://assetstore.unity.com/packages/3d/characters/humanoids/rpg-tiny-hero-duo-pbr-polyart-225148)
 
